@@ -95,9 +95,15 @@ you can use any multi-channel images.
 
 #.  Select all panels and zoom a little. Then select all the panels from one row and drag the image in the *Preview* tab to pan the selected images to the same point.
 
-#.  Copy and paste the **merged** column again to create a 5th column. Zoom in to approx 500%.
+#.  Select the panels in the **merged** column and in the *Labels* tab, click the *Create Inset* button to create a zoomed-in panel for each row.
 
-#.  Select the *Labels* tab, select the **merged** and **zoomed** columns and click *Show* Scalebar button.
+#.  When you select a zoomed-in panel and pan, zoom or rotate the image in the *Preview* tab, the corresponding ROI will be updated accordingly.
+
+#.  Select all the zoomed-in panels and increase their zooom in the *Preview* tab to about 500%.
+
+#.  Select individual zoomed-in panels and pan to the desired region.
+
+#.  Select the **merged** and **zoomed** columns and click *Show* Scalebar button in the *Labels* tab.
 
 #.  Click the *Label* checkbox to add a label to the scalebar. Select only the zoomed-in panels and change the scalebar to 1 micron.
 
@@ -119,11 +125,6 @@ you can use any multi-channel images.
 
 #.  Click *Copy* ROIs in the *Labels* tab, select the other panels in the same row and click *Paste* to add ROIs to these panels.
 
-#.  To create a Rectangle ROI indicating the region of the zoomed-in image, select the zoomed-in image on the first row and click *Copy* of the cropped region at the bottom of the *Preview* tab.
-
-#.  Now select the zoomed-out **‘merged’** panel, and paste this region as an ROI by clicking *Paste* under ROIs section of the *Labels* tab.
-
-#.  Repeat for other rows of the figure. At this point we have created the figure in the screenshot above.
 
 Saving and exporting figures
 ----------------------------
