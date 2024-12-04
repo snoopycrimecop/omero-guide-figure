@@ -99,7 +99,7 @@ you can use any multi-channel images.
 
 #.  When you select a zoomed-in panel and pan, zoom or rotate the image in the *Preview* tab, the corresponding ROI will be updated accordingly.
 
-#.  Select all the zoomed-in panels and increase their zooom in the *Preview* tab to about 500%.
+#.  Select all the zoomed-in panels and increase their zoom in the *Preview* tab to about 500%.
 
 #.  Select individual zoomed-in panels and pan to the desired region.
 
